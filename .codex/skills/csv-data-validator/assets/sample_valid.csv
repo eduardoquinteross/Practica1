@@ -1,0 +1,4 @@
+id,name,active,price,created_at
+1,Keyboard,true,49.99,2026-01-10
+2,Mouse,false,25.50,2026-01-11
+3,Monitor,true,199.00,2026-01-12

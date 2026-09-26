@@ -1,0 +1,8 @@
+{
+  "null_values": ["", "null", "none", "n/a", "na"],
+  "max_null_percentage_per_column": 10,
+  "max_duplicate_rows": 0,
+  "max_mixed_type_percentage_per_column": 0,
+  "allowed_types": ["integer", "decimal", "boolean", "date", "string"],
+  "date_format": "YYYY-MM-DD"
+}

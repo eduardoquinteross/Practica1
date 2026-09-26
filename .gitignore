@@ -25,6 +25,8 @@ pnpm-debug.log*
 *.md
 !README.md
 !AGENTS.md
+!.codex/skills/**/SKILL.md
+!.codex/skills/**/README.md
 
 # Operating system files
 .DS_Store
